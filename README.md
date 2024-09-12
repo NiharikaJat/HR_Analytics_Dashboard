@@ -6,5 +6,5 @@ This dashboard dipicts all the reasons for attrition ny employees.Basically it d
 In this dashboard,
 Employees in life sciences have the highest attrition rate of 37.55%.
 Employees in age group of 26-35 have the high attrition.
-Employees whichsalary upto 5k  have the high attrition.
+Employees which have salary upto 5k  have the high attrition.
 Employees having work experience less than 5 years have high attrition numbers.
